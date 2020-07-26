@@ -10,3 +10,8 @@ body {
     background: url(images/background.jpg);
     background-attachment: fixed;
 }
+
+.mixBlnd
+{
+	background-blend-mode: screen;
+}
