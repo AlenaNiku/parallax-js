@@ -1,5 +1,5 @@
 # Welcome to Under the Sea with **parallax.js**!
-### *Parallax.js* is a small but powerful JavaScript library. We can use it to build quick and fun web pages with parallax effect tricks our brain into thinking we are looking at a 3D landscape.
+### *Parallax.js* is a small but powerful JavaScript library. We can use it to build quick and fun web pages with parallax effect that tricks our brain into thinking we are looking at a 3D landscape.
 
 ![under the sea parallax effect](underthesea.gif)
 #### Check out my blog post 👉 &nbsp;  <a href="https://medium.com/@alenanikulina0/under-the-sea-with-parallax-js-beginner-friendly-d8f182ecd206" target="_blank">parallax.js</a>
